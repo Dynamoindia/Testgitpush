@@ -1,26 +1,5 @@
-
-
-hello swati
-
-
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-hello swati
-
+a= str("Swati And ")
+b= str("Shivank ")
+print((a+b)*10000)
 
 
